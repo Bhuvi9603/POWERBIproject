@@ -18,6 +18,7 @@ It helps track stock levels, top-selling products, and other key performance ind
 1. Download the .pbix file.
 2. Open it using Power BI Desktop.
 3. Refresh the data if needed to view the latest insights.
+![Dashboard Screenshot](https://github.com/Bhuvi9603/POWERBIproject/blob/main/powerbidashboard.png?raw=true)
 
 ## Author
 Bhuvana A
